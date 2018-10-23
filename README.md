@@ -3,7 +3,7 @@
 This plugin integrates the custom png/gif emoji and smiley for ckeditor 4 (with exists 4 example emoji package) . Similar with plugin emojione.
 
 
-<img align="right" width="800px" src="https://linx.li/selif/fqy6n5f2.png">
+<img align="center" width="800px" src="https://linx.li/selif/fqy6n5f2.png">
 
 # Check our [demo](http://git-html.byethost9.com/hkemoji/) (tested in CKeditor v4.10.1)
 
