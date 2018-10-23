@@ -1,7 +1,7 @@
-# HKemoji for CKEditor 4x
+# HKemoji for CKEditor 4x 
 
 This plugin integrates the custom png/gif emoji and smiley for ckeditor 4 (with exists 4 example emoji package) . Similar with plugin emojione.
-
+## [Download](https://ckeditor.com/cke4/addon/hkemoji)
 
 <img align="center" width="800px" src="https://linx.li/selif/fqy6n5f2.png">
 
