@@ -83,6 +83,8 @@ contents: [
 
 # Thanks
 - braune-digital [emojione](https://ckeditor.com/cke4/addon/emojione)
+- CKSource [smiley](https://ckeditor.com/cke4/addon/smiley)
+- HK [HOAKHUYA](https://hoakhuya.com)
 
 # _
 Hope you like this function, let the star or comment at [hkemoji](https://ckeditor.com/cke4/addon/hkemoji) or email to [develop@execs.com](develop@execs.com) if you have issue. I'm happy to resolove.
